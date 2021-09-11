@@ -1,0 +1,47 @@
+{
+    "manifest": {
+        "author": "Velcorn",
+        "name": "Amoled+",
+        "updater": "https:\/\/raw.githubusercontent.com\/Velcorn\/Aliucord\/main\/Amoled+.json",
+        "version": "1.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/ElectricEasel\/shindaiwacordless\/tree\/master\/fonts\/HelveticaNeue"
+    },
+    "simple_colors": {
+        "active_channel": 2136905718,
+        "input_background": -16777216,
+        "mention_highlight": 2136905718,
+        "statusbar": -16777216,
+        "accent": -10577930
+    },
+    "colors": {
+        "button_material_dark": -15527149,
+        "dark_grey_2": -16777216,
+        "link": -10577930,
+        "primary_500": -16777216,
+        "primary_600": -16777216,
+        "primary_630": -16777216,
+        "primary_660": -16777216,
+        "primary_700": -15527149,
+        "primary_800": -16777216,
+        "primary_dark_600": -16777216,
+        "primary_dark_630": -16777216,
+        "primary_dark_660": -16777216,
+        "primary_dark_700": -16777216,
+        "primary_dark_730": -16777216,
+        "primary_dark_760": -16777216,
+        "primary_dark_800": -16777216,
+        "primary_dark_830": -16777216,
+        "primary_dark_860": -16777216,
+        "primary_light_100": -16777216,
+        "primary_light_130": -16777216,
+        "primary_light_200": -16777216
+    },
+    "drawable_tints": {
+        "abc_textfield_default_mtrl_alpha": -16777216,
+        "abc_textfield_search_material": -16777216,
+        "drawable_overlay_channels_selected_dark": -15527149
+    }
+}
