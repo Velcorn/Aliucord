@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Velcorn",
         "name": "Amoled+",
-        "updater": "https:\/\/raw.githubusercontent.com\/Velcorn\/Aliucord\/main\/themes\/Amoled%2B.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/Velcorn\/Aliucord\/main\/Amoled+.json",
         "version": "1.0"
     },
     "background": {},
@@ -10,11 +10,11 @@
         "*": "https:\/\/github.com\/ElectricEasel\/shindaiwacordless\/tree\/master\/fonts\/HelveticaNeue"
     },
     "simple_colors": {
-        "active_channel": 2146432510,
         "input_background": -16777216,
-        "mention_highlight": 2146432510,
         "statusbar": -16777216,
-        "accent": -10577930
+        "accent": -10577930,
+        "mention_highlight": 845060086,
+        "active_channel": 828282870
     },
     "colors": {
         "button_material_dark": -15527149,
